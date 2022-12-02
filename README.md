@@ -45,4 +45,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* TODO:  Jeeverlyn  Awe and joeverlyncapute@gmail.com
+* TODO:  Joeverlyn  Awe and joeverlyncapute@gmail.com
